@@ -114,6 +114,8 @@ header {
     background: #7A1020;
     padding: 10px;
     position: relative;
+    border-radius: 20px;
+    overflow: hidden;
 }
 
 .photo-card img {
@@ -121,6 +123,7 @@ header {
     height: 100%;
     object-fit: cover;
     display: block;
+    border-radius: 12px;
 }
 
 .photo-info {
